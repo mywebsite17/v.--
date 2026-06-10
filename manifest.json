@@ -1,10 +1,12 @@
 {
-  "name": "iotv App",
-  "short_name": "iotv App",
+  "name": "My iptvApp",
+  "short_name": "my iptv",
+  "description": "My iptvApp",
   "start_url": "./index.html",
   "display": "standalone",
+  "orientation": "any",
   "background_color": "#ffffff",
-  "theme_color": "#3b82f6",
+  "theme_color": "#9187ab",
   "icons": [
     {
       "src": "./icon-192.png",
