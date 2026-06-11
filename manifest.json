@@ -1,12 +1,12 @@
 {
-  "name": "NY Iptv",
-  "short_name": "NY Iptv App",
-  "description": "NY Iptv App",
+  "name": "My IPTV App",
+  "short_name": "My IPTV App",
+  "description": "My IPTV App",
   "start_url": "./index.html",
   "display": "standalone",
   "orientation": "any",
   "background_color": "#ffffff",
-  "theme_color": "#8176bc",
+  "theme_color": "#72b3c0",
   "icons": [
     {
       "src": "./icon-192.png",
