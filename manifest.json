@@ -1,12 +1,12 @@
 {
-  "name": "My IPTV App",
-  "short_name": "My IPTV App",
-  "description": "My IPTV App",
+  "name": "My iptv App",
+  "short_name": "My iptv App",
+  "description": "My iptv App",
   "start_url": "./index.html",
   "display": "standalone",
   "orientation": "any",
   "background_color": "#ffffff",
-  "theme_color": "#72b3c0",
+  "theme_color": "#a776bc",
   "icons": [
     {
       "src": "./icon-192.png",
