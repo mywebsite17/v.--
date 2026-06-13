@@ -1,12 +1,12 @@
 {
-  "name": "My iptv App",
-  "short_name": "My iptv App",
-  "description": "My iptv App",
+  "name": "My PWA App",
+  "short_name": "PWA App",
+  "description": "",
   "start_url": "./index.html",
   "display": "standalone",
   "orientation": "any",
   "background_color": "#ffffff",
-  "theme_color": "#a776bc",
+  "theme_color": "#7382bf",
   "icons": [
     {
       "src": "./icon-192.png",
